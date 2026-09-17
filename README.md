@@ -51,7 +51,7 @@ Moxi is an AI-powered Discord assistant that combines conversational AI, real-ti
                                     │
                                     ▼
                                   Discord
-
+``` 
 
 ## 🚀 Future Enhancements
 

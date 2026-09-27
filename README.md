@@ -51,7 +51,19 @@ Moxi is an AI-powered Discord assistant that combines conversational AI, real-ti
                                     │
                                     ▼
                                   Discord
-``` 
+```
+
+## 📸 Moxi in Action
+
+Moxi brings conversational AI and image generation directly into Discord.
+
+### 🤖 AI Chat & Image Generation
+
+![Moxi AI Chat and Image Generation](screenshots/moxi-demo.png)
+
+### 🟢 Discord Integration
+
+![Moxi Online](screenshots/moxi-online.png)
 
 ## 🚀 Future Enhancements
 

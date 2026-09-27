@@ -59,11 +59,11 @@ Moxi brings conversational AI and image generation directly into Discord.
 
 ### 🟢 Discord Integration
 
-![Moxi Online](screenshots/moxi-online.png)
+<img src="screenshots/moxi-online.png" width="400">
 
 ### 🤖 AI Chat & Image Generation
 
-![Moxi AI Chat and Image Generation](screenshots/moxi-demo.png)
+<img src="screenshots/moxi-demo.png" width="500">
 
 
 ## 🚀 Future Enhancements

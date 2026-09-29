@@ -65,6 +65,10 @@ Moxi brings conversational AI and image generation directly into Discord.
 
 <img src="screenshots/moxi-demo.png" width="500">
 
+## 🔗 LinkedIn
+
+📢 **Check out the project post on LinkedIn:**  
+[View Moxi on LinkedIn](https://lnkd.in/p/dq7JAb88)
 
 ## 🚀 Future Enhancements
 
